@@ -3,7 +3,7 @@ os:
   - linux
   - osx
 language: node_js
-nide_js:
+node_js:
   - "9"
   - "8"
   - "7"
