@@ -1,0 +1,26 @@
+{
+  "name": "xcxerxes-array-last",
+  "version": "1.0.0",
+  "description": "array slice last one",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XcXerxes/xcxerxes-array-last.git"
+  },
+  "keywords": [
+    "[node",
+    "array]"
+  ],
+  "author": "xcxerxes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XcXerxes/xcxerxes-array-last/issues"
+  },
+  "homepage": "https://github.com/XcXerxes/xcxerxes-array-last#readme",
+  "devDependencies": {
+    "mocha": "^5.1.0"
+  }
+}

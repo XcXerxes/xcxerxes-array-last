@@ -1,0 +1,12 @@
+sudo: false
+os:
+  - linux
+  - osx
+language: node_js
+nide_js:
+  - '9'
+  - '8'
+  - '7'
+  - '6'
+git:
+  depth: 10
